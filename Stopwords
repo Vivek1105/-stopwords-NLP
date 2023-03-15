@@ -5,7 +5,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 
-print(stopwords.words'english')
+print(stopwords.words('english'))
 
 # random sentecnce with lot of stop words
 sample_text = "Oh man, this is pretty cool. We will do more such things."
